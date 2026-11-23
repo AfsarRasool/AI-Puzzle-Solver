@@ -26,8 +26,6 @@ AI-Puzzle-Solver/
 ├── docs/
 ├── src/
 ├── outputs/
-│   ├── figures/
-│   └── results/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -39,9 +37,8 @@ Setup instructions and execution commands will be added after the integration of
 
 ## Contributors
 
-- Afsar Rasool — [Roll Number]
-- [Friend's Name] — [Roll Number]
-
+- Afsar Rasool — 24K-2016
+- Abubakar     — 24K-2046
 ## License
 
 To be determined.
