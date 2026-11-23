@@ -1,0 +1,3 @@
+# The programs themselves use only the Python standard library (Python 3.8+).
+# matplotlib is needed only for:  python experiments.py --seed 42 --charts
+matplotlib>=3.5
